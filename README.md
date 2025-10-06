@@ -26,3 +26,5 @@ DENIZ ERP is a modular and customizable enterprise resource planning system deve
 - Industry-specific customizable modules
 - Secure, fast, and scalable infrastructure
 
+
+📅 15.03.2026 | Tahmini Bitiş / Estimated Finish
